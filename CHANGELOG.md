@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.5] - 2021-08-27
+
+### Fixed
+
+- Fixed the copy of `Package` instances which led to file hashes not being available. ([#193](https://github.com/python-poetry/poetry-core/pull/193))
+
+
 ## [1.0.4] - 2021-08-19
 
 ### Fixed
@@ -155,7 +162,8 @@ No changes.
 - Fixed support for stub-only packages ([#28](https://github.com/python-poetry/core/pull/28)).
 
 
-[Unreleased]: https://github.com/python-poetry/poetry-core/compare/1.0.4...1.1
+[Unreleased]: https://github.com/python-poetry/poetry-core/compare/1.0.5...1.1
+[1.0.5]: https://github.com/python-poetry/poetry-core/releases/tag/1.0.5
 [1.0.4]: https://github.com/python-poetry/poetry-core/releases/tag/1.0.4
 [1.0.3]: https://github.com/python-poetry/poetry-core/releases/tag/1.0.3
 [1.0.2]: https://github.com/python-poetry/poetry-core/releases/tag/1.0.2
