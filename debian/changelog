@@ -1,0 +1,5 @@
+python-poetry-core (100:1.1.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/python-poetry/poetry-core/releases/tag/1.1.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Wed, 31 Aug 2022 14:50:49 +0800
