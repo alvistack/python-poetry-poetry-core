@@ -27,9 +27,7 @@ pip-log.txt
 /test.py
 /test_*.*
 
-/setup.cfg
 MANIFEST.in
-/setup.py
 /docs/site/*
 /tests/fixtures/simple_project/setup.py
 /tests/fixtures/project_with_extras/setup.py
@@ -39,3 +37,5 @@ MANIFEST.in
 /releases/*
 pip-wheel-metadata
 /poetry.toml
+
+.pybuild/
