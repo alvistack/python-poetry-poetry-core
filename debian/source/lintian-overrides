@@ -1,0 +1,4 @@
+python-poetry-core source: file-without-copyright-information
+python-poetry-core source: no-debian-changes
+python-poetry-core source: source-contains-prebuilt-windows-binary
+python-poetry-core source: source-package-encodes-python-version
